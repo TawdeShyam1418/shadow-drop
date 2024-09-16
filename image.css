@@ -1,0 +1,11 @@
+.image_wrapper{
+    width: 400px;
+    height: 300px;
+}
+.inner_img{
+    transition: 10s;
+    width: 100%;
+}
+.inner_img:hover{
+    transform: scalex(10);
+}
